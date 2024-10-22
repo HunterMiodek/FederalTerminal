@@ -1,0 +1,21 @@
+===== 1 =====
+ logon [user]                         | logs [user] into ADMIN-TERMINAL
+ exit                                 | exits terminal.py
+ shutdown                             | shuts down the operating system (OS)
+ restart                              | restarts the terminal system
+===== 2 =====
+ help                                 | shows all commands
+===== 3 =====
+ d=[time] [command]                   | define the delay, i.e. d=0.05
+===== 4 =====
+ clear                                | clears the terminal screen
+ print [text to print]                | instantly echoes the text on the screen
+ char [text to char]                  | echoes the text on the screen with effect
+ view p- [path/to/file]               | displays the file in the terminal (if it
+                                        is a compatible file)
+ clear p- [path/to/file]              | completely resets the file
+===== 5 =====
+ set [function]                       | edit the system (if access is allowed)
+ set terminal/maint                   | opens the maintenance mode on the terminal
+===== 6 =====
+ credits                              | displays the RobCo_Terminal Project credits!
